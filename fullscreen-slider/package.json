@@ -11,10 +11,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "DevDependencies": {
+  "devDependencies": {
     "browser-sync": "^2.26.14",
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0",
-    "gulp-sass": "^4.1.0"
+    "gulp-sass": "^4.1.0",
+    "gulp-stylelint": "^13.0.0",
+    "stylelint": "^13.9.0",
+    "stylelint-config-recess-order": "^2.3.0",
+    "stylelint-config-standard": "^20.0.0"
   }
 }
