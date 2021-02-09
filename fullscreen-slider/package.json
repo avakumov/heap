@@ -1,0 +1,20 @@
+{
+  "name": "simple-slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "./node_modules/gulp-cli/bin/gulp.js style",
+    "watch": "./node_modules/gulp-cli/bin/gulp.js watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "DevDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
